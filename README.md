@@ -26,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/Erwinsuranto/Cara-tambah-port-status/main/Screenshot_20240912_174956_Opera.jpg" alt="neko" width="500">
 </h1>
 # Jika Menggunakan Script Yang Di Bawah Ini Port Status Muncul Saat Modem Terdeteksi 
+
 ```
 {
  "model": {
