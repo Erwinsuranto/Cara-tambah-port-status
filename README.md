@@ -6,6 +6,25 @@
 "ports": ["eth0","eth1","eth2","usb0"],
 
 ```
+- Jika Sudah File Nya Seperti di bawah
+```
+{
+	"model": {
+		"id": "amlogic,p212",
+		"name": "Amlogic Meson GXL (S905X) P212 Development Board"
+	},
+	"network": {
+		"lan": {
+			"ports": ["eth0","eth1","eth2","usb0","wwan0"],
+			"protocol": "static"
+		}
+	}
+}
+
+```
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Erwinsuranto/Cara-tambah-port-status/main/Screenshot_20240912_174956_Opera.jpg" alt="neko" width="500">
+</h1>
 # Jika Menggunakan Script Yang Di Bawah Ini Port Status Muncul Saat Modem Terdeteksi 
 ```
 {
@@ -33,19 +52,6 @@
 	}
 }
 ```
-- Jika Sudah File Nya Seperti di bawah
-```
-{
-	"model": {
-		"id": "amlogic,p212",
-		"name": "Amlogic Meson GXL (S905X) P212 Development Board"
-	},
-	"network": {
-		"lan": {
-			"ports": ["eth0","eth1","eth2","usb0","wwan0"],
-			"protocol": "static"
-		}
-	}
-}
-
-```
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Erwinsuranto/Cara-tambah-port-status/main/Screenshot_20240915_115500_UC%20Browser.jpg" alt="neko" width="500">
+</h1>
